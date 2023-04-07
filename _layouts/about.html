@@ -43,7 +43,19 @@ layout: default
           <!-- News -->
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
+            <!-- {%- include news.html %} -->
+            <div class="container">
+              <div class="row">
+
+                <div class="col-md-12" role="main">
+                    <dl class="dl-horizontal"> 
+                    {% for item in site.data.news | limit:5 %}            
+                      <dt>{{item.date | date: "%B %d, %Y"}}</dt><dd>{{item.content}}</dd>
+                    {% endfor %}
+                    </dl>
+                </div>
+              </div>
+            </div>
           {%- endif %}
 
           <!-- Selected papers -->
