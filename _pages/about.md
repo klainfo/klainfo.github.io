@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Interested in Software Engineering, Cyber Security, Responsible AI, Explainable AI   # Contacts. Moto. Etc.
+subtitle: # Interested in Software Engineering, Cyber Security, Responsible AI, Explainable AI   # Contacts. Moto. Etc.
 
 profile:
   align: right

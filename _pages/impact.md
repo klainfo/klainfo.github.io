@@ -36,6 +36,22 @@ Software defects are prevalent, but hard to predict, and to prevent. In software
 
 Aligned with my core research expertise (**Defect Prediction**), I regularly engage, involve, and provide expert advice to help practitioners in many companies to design, develop, and deploy defect prediction models in practicce, enabling developers to effectively prioritise their limited resources on the highest risk area of source code and enabling managers to chart appropriate quality improvement plans. 
 
+
+<!-- he invents an AIBugHunter tool, which is the first practical AI-powered tool that can detect, localize, explain and suggest vulnerability repairs in IDE during the software development stage–not just discover vulnerabilities at the end of the software development lifecycle, which is likely to reduce the cost of vulnerability discovery, speed up software development cost, and developers’ productivity. Currently, the tool is publicly available in Microsoft’s Visual Studio Marketplace. AIBugHunter is built on top of his LineVul paper (Explainable AI for Cybersecurity, published at MSR’22) that has discovered as many as 348 vulnerabilities in safety-critical Free Open-Source Software (FOSS) systems. These vulnerabilities are considered as the Top-25 most dangerous CWE types in 2021 (e.g., CWE-190 Integer Overflow, CWE-787 Out of bound Write, CWE-20 Improper Input Validation). These findings highlights the strong potential impact of his LineVul in real-world practices, providing a world-most accurate vulnerability discovery approach to help security analysts to discover vulnerabilities faster, enabling software organizations to immediately react to the cyber attacks, and protecting cyber attacks from national and international's cyberinfrastructure. His work also received strong attention from various media (e.g., Gizmodo, Australian Cyber Security Magazine, TechXplore, Cybersecurity Connect, Australian Computer Society). -->
+
+#### Media Coverage
+
+* Gizmodo <https://www.gizmodo.com.au/2022/05/linevul-monash-software-vulnerabilities/>
+* Australian Cyber Security Magazine <https://australiancybersecuritymagazine.com.au/advancement-in-predicting-software-vulnerabilities/>
+* Monash University <https://www.monash.edu/news/articles/unglitching-the-system-advancement-in-predicting-software-vulnerabilities>
+* Mirage News <https://www.miragenews.com/unglitching-system-advancement-in-predicting-783961/>
+* National Tribune <https://www.nationaltribune.com.au/unglitching-system-advancement-in-predicting-software-vulnerabilities/>
+* TechXplore <https://techxplore.com/news/2022-05-unglitching-advancement-software-vulnerabilities.html>
+* India Education Diary <https://indiaeducationdiary.in/monash-university-unglitching-the-system-advancement-in-predicting-software-vulnerabilities/>
+* MOEARA <https://moeara.com/australian-researchers-believe-they-have-found-the-key-to-predicting-software-vulnerabilities/>
+* Australian Computer Society <https://ia.acs.org.au/content/ia/article/2022/preventing-cyber-attacks-through-code-analysis.html?ref=newsletter>
+* Cybersecurity Connect <https://www.cybersecurityconnect.com.au/commercial/7843-monash-university-s-linevul-approach-capable-of-predicting-software-vulnerabilities>
+
 # Impact to Research Community
 
 ### Developing the First Online Tutorial Book on <a href="https://xai4se.github.io">"Explainable AI for Software Engineering"</a>
