@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
@@ -12,10 +12,14 @@ nav_order: 5
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
 
+<!-- #### Tutorial -->
+
+
 #### Monash University (2019-current)
 
 <h4>Semester 1, 2023</h4>
   <ul>
+    <li>(PhD) <a href="/teaching/quantitative-research-methods">MDP: Quantitative Research Methods</a></li>
     <li>(Master) FIT <a href="http://www.monash.edu/pubs/handbooks/units/FIT5136.html">5136</a>: Software engineering</li>
   </ul> 
 <h4>Semester 2, 2022</h4>
