@@ -30,7 +30,7 @@ toc:
   - name: Lecturer
   - name: Graduate Research accredited hours
   - name: Topics
-  
+
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
 _styles: >
@@ -78,6 +78,13 @@ Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
 
 ***
 
+# Prior to the Workshop
+
+ - Please bring your own laptop.
+ - Please learn how to use R in Visual Studio Code <https://code.visualstudio.com/docs/languages/r>
+ - Please learn how to use Python in Visual Studio Code <https://code.visualstudio.com/docs/languages/python>
+***
+
 # Topics
 
 
@@ -89,6 +96,11 @@ Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
 | 5 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G56 |  Lecture #4: Modern Model Explainability and Experimental Design | [slides]
 | 10 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #5: Seminar and Presentations | [slides]
 
+***
+
+# After the Workshop
+
+ - Please provide us feedback from this link. (TBA)
 ***
 
 ### Communication
