@@ -16,39 +16,59 @@ I greatly value the opportunity to train future leaders in software engineering 
 
 <h4>Current PhD Supervision at Monash University</h4>
 
-1.	**(PhD, Main Supervision) Oat Chanathip Pornprasit (2020-current), Monash University, Australia**
+1.	**(PhD, Main Supervision) Chanathip Pornprasit (2020-current), Monash University, Australia**
 
 	**Topic:** Automated Software Quality Assurance
 
-	**Publications:** 1xMSR 
+	**Publications:** MSR'21, TSE'21, ASE'21, SANER'23 
 
-2.	**(PhD, Main Supervision) Neo Yang Hong (2021-current), Monash University, Australia**
+2.	**(PhD, Main Supervision) Yang Hong (2021-current), Monash University, Australia**
 
 	**Topic:** Automated Code Review.
+
+	**Publications:** SANER'22, FSE'22.
 
 3.	**(PhD, Main Supervision) Yue Liu (2021-current), Monash University, Australia**
 
 	**Topic:** Automated Malware Detection.
 
-4.	**(PhD, Co Supervision) Danushka Pitivilaliyanage (2020-current), Monash University, Australia**
+	**Publications:** ACM Computing Survey, ISSRE'23.
 
-	**Topic:** Automated Software Testing.	
+4.	**(PhD, Main Supervision) Danushka Pitivilaliyanage (2020-current), Monash University, Australia**
+
+	**Topic:** Security Gaurantees for Automated Software Testing.	
+
+	**Publications:** ICSE'23.
 
 5.	**(PhD, Co Supervision) Aastha Pant (2021-current), Monash University, Australia**
 
-	**Topic:** Ethics in Software Enginering
+	**Topic:** Ethics in AI
 
-6.	**(Master of Data Science, Main Supervision) Micheal Yeh Fu (2021-current), Monash University, Australia**
+6.	**(PhD, Main Supervision) Yeh Fu (2021-current), Monash University, Australia**
 
-	**Topic:** Explainable AI for Agile Software Development
+	**Topic:** Toward More Effective Deep Learning-based Automated Software Vulnerability Prediction, Classification, and Repair
 
-	**Publications:** TBA
+	**Publications:** ASE'21, TSE'21, MSR'22, FSE'22.
 
-7.	**(Master of AI, Main Supervision) Adam Xingyu Liang  (2021-current), Monash University, Australia**
+7.	**(PhD, Main Supervision) Saranya Alagarsamy (2021-current), Monash University, Australia**
 
-	**Topic:** AI for Agile Project Managements
+	**Topic:** AI for Software Testing
 
-8.	**(PhD, Main Supervision) Wannita Takerngsaksiri (To be commenced), Monash University, Australia**
+	**Publications:** TOSEM'23 (Under Review)
+
+8.	**(PhD, Main Supervision) Wannita Takerngsaksiri, Monash University, Australia**
+
+	**Topic:** Automated Code Completion
+
+	**Publications:** TSE'23 (Under Review)
+
+<h4>Undergraduate Researchers</h4>
+
+9.	**(1st Year Undergraduate Student) Yuki Kume, Monash University, Australia**
+
+	**Topic:** AIBugHunter
+
+	**Publications:** EMSE'23 (Under Review)
 
 <h4>Graduated Students</h4>
 
