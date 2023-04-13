@@ -83,6 +83,7 @@ Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
  - Please bring your own laptop.
  - Please learn how to use R in Visual Studio Code <https://code.visualstudio.com/docs/languages/r>
  - Please learn how to use Python in Visual Studio Code <https://code.visualstudio.com/docs/languages/python>
+
 ***
 
 # Topics
@@ -101,6 +102,7 @@ Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
 # After the Workshop
 
  - Please provide us feedback from this link. (TBA)
+
 ***
 
 ### Communication
