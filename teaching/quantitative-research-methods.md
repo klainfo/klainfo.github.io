@@ -56,25 +56,26 @@ _styles: >
 
 Quantitative Research methods play a key role in the discovery of new knowledge and the evaluation of tools and technologies across many disciplines. Quantitative methods use mathematical, statistical or numerical techniques to process numerical data. Examples and hands-on demonstrations will be provided with R or Python programming languages. The goal of this module is to provide basic principles and foundations of commonly-used quantitative research methods that can be applied in multiple disciplines, including Software Engineering, Cybersecurity and Human-Centred Computing. 
 
+##### Activity Type
+
+Workshop (Face-to-Face or Webinar)
+
+##### Lecturer
+
+Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
+
+##### Graduate Research Accredited Hours
+
+10
+
 
 # Learning Outcomes
-At the end of this module, students will
+
+By the end of this module, students will
 
 1. Understand the principles of common quantitative research methods used in software engineering.
 2. Understand the applications and interpretation of quantitative research methods.
 3. Be able to design and execute a software engineering research project using contemporary quantitative research methods
-
-# Activity type
-
-Workshop (Face-to-Face or Webinar)
-
-# Lecturer
-
-Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
-
-# Graduate Research accredited hours
-
-10
 
 ***
 
