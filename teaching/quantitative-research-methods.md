@@ -90,11 +90,11 @@ Dr. Kla Tantithamthavorn (Email: chakkrit@monash.edu)
 
 | Date        | Location           | Topics  | Slides | 
 | :------------- |:-------------|:-----|
-| 26 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_393 |  Lecture #1: Statistical Analysis (Parametric and Non-parametric Tests), Hypothesis Testing and Effect Size Analysis | [slides]
-| 28 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G62 |  Lecture #2: Modern Regression Analysis (Linear, Non-Linear, Logistic) and Correlation vs Causation | [slides]
-| 3 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #3: Modern Machine Learning for Data Analysis and Common Pitfalls and Avoidance Strategies   | [slides]
-| 5 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G56 |  Lecture #4: Modern Model Explainability and Experimental Design | [slides]
-| 10 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #5: Seminar and Presentations | [slides]
+| 26 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_393 |  Lecture #1: Introduction to Quantitative Research Methods and Design Science Paradigms | [slides]
+| 28 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G62 |  Lecture #2: Statistical Analysis (Parametric and Non-parametric Tests), Hypothesis Testing and Effect Size Analysis | [slides]
+| 3 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #3: Modern Regression Analysis (Linear, Non-Linear, Logistic) and Correlation vs Causation | [slides]
+| 5 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G56 |  Lecture #4: Modern Machine Learning for Data Analysis and Common Pitfalls and Avoidance Strategies| [slides]
+| 10 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #5: Modern Model Explainability and  Presentations | [slides]
 
 ***
 
