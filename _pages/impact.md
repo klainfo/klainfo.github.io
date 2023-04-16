@@ -8,7 +8,7 @@ nav_order: 2
 ---
 # Recognition of Research Excellence 
 
-I have a consistent track-record of achievements, awards, grants. To date, I receive the substantial amount of grant funding over AU$800,000+, demonstrating the recognition of the excellence of my research. In addition, I also invest significant effort in funding my research projects from an early career stage, which allows me to maintain a strong research profile.
+I have a consistent track-record of achievements, awards, and grants. To date, I receive the substantial amount of grant funding over AU$2,000,000+, demonstrating the recognition of the excellence of my research. In addition, I also invest significant effort in funding my research projects from an early career stage, which allows me to maintain a strong research profile.
 
 - 2023: ACM SIGSOFT Distinguished Reviewer Award at ICSE'23.
 - 2022: CSIRO's Next Generation Graduates AI Program, Responsible AI Software Engineering (lead-CI, $1.2m).
