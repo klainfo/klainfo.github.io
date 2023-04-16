@@ -10,7 +10,9 @@ nav_order: 2
 
 I have a consistent track-record of achievements, awards, grants. To date, I receive the substantial amount of grant funding over AU$800,000+, demonstrating the recognition of the excellence of my research. In addition, I also invest significant effort in funding my research projects from an early career stage, which allows me to maintain a strong research profile.
 
-- 2021: <a href="https://www.researchgate.net/publication/354326426_PyExplainer_Explaining_the_Predictions_of_Just-In-Time_Defect_Models">ACM SIGSOFT Distinguished Paper Award 2021</a>
+- 2023: ACM SIGSOFT Distinguished Reviewer Award at ICSE'23.
+- 2022: CSIRO's Next Generation Graduates AI Program, Responsible AI Software Engineering (lead-CI, $1.2m).
+- 2021: <a href="https://www.researchgate.net/publication/354326426_PyExplainer_Explaining_the_Predictions_of_Just-In-Time_Defect_Models">ACM SIGSOFT Distinguished Paper Award 2021</a>.
 - 2020: Australian Research Council's Discovery Early Career Researcher Awards (DECRA) (sole-CI, AU$404,000).
 - 2019: Medical Research Future Fund (MRFF) (co-CI, AU$250,000).
 - 2019: FIT Early Career Researcher Seed Grant (sole-CI, AU$15,000).
