@@ -90,13 +90,13 @@ By the end of this module, students will
 # Topics
 
 
-| Date        | Location           | Topics  | Slides | 
+| Date        | Location           | Topics  | Readings | 
 | :------------- |:-------------|:-----|
-| 26 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_393 |  Lecture #1: Introduction to Quantitative Research Methods and Design Science Paradigms | [slides]
-| 28 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G62 |  Lecture #2: Statistical Analysis (Parametric and Non-parametric Tests), Hypothesis Testing and Effect Size Analysis | [slides]
-| 3 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #3: Modern Regression Analysis (Linear, Non-Linear, Logistic) and Correlation vs Causation | [slides]
-| 5 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G56 |  Lecture #4: Modern Machine Learning for Data Analysis and Common Pitfalls and Avoidance Strategies| [slides]
-| 10 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #5: Modern Model Explainability and  Presentations | [slides]
+| 26 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_393 |  [Lecture #1: Introduction to Quantitative Research Methods and Design Science Paradigms](https://docs.google.com/presentation/d/1qEHhlUUcwrmQRdsJIcOhcJhb6q8TXAJK/edit?usp=sharing&ouid=100016211068716461808&rtpof=true&sd=true) | 
+| 28 April 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G62 |  Lecture #2: Statistical Analysis (Parametric and Non-parametric Tests), Hypothesis Testing and Effect Size Analysis | N/A
+| 3 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #3: Modern Regression Analysis (Linear, Non-Linear, Logistic) and Correlation vs Causation | N/A
+| 5 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_G56 |  Lecture #4: Modern Machine Learning for Data Analysis and Common Pitfalls and Avoidance Strategies| N/A
+| 10 May 2023 10:00-12:00 pm  | CL_Anc-19.LTB_121 |  Lecture #5: Modern Model Explainability and  Presentations | N/A
 
 ***
 
