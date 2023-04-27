@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: "MDP: Quantitative Research Method"
-description: Quantitative Research Method
+title: "MDP: Quantitative Research Methods"
+description: Quantitative Research Methods
 giscus_comments: true
 date: 2023-04-08
 
