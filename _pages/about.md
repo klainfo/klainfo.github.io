@@ -25,6 +25,10 @@ My research is recognised by many prestigious awards e.g., Australian Research C
 
 Aligned with the Faculty's mission, 'IT for Social Good', he is interested in the areas of Digital Health. Funded by a Medical Research Future Fund (MRFF) to work with a multidisciplinary team with Cabrini Institute, St Vincent Hospital, and Eastern Health, he successfully developed analytics systems for estimating patient's wait-time in Emergency Departments and deployed in many hospitals in Australia.
 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5aTcpF8lBDYDU0oO_MsQFiE2CGuzgrs3L9YEZr8P50twSrnIHXTCJk-SlpWlc7w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 <!-- Interests: Software Analytics, Explainable AI, AI4SE, SE4AI, Empirical Software Engineering, Software Quality Assurance.
 
 Address: Faculty of Information Technology, Monash University, Australia.
