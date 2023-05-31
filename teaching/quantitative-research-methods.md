@@ -99,9 +99,34 @@ By the end of this module, students will
 
 ***
 
-# After the Workshop
+# Slides
 
- - Please provide us feedback from this link. (TBA)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSzVKBfISgN8Rf9uOCmZBLiW822EvYQcu88idmFfWMoUeKhbRRZF7ueJl4LYLc6Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWno-xolPOt51u8j-Si8KraD9S20jVw-tDvr7J2_gwV7SyOhncGvDKgAbaQxRsfw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF8y5DCRsEov5jk-Xp-BvgNZ2Ami6z3iJXR_BrYh7lzjgH-ORVjvNDpxVzlKTFqw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8oiY-LlIRS32ZQAhMkTIbm2fRfnaqTsYdBQ34orchmyWuTmis7W7icRmBs6jpFg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+# Student Evaluation
+
+<img src="/assets/mdp/images/setu.png" width="750" >
+
+# Student Testimonials
+- Kla is very personable and friendly. They are an effective teacher, and this has been my favourite and most informative MDP training yet.
+- Kla is very detailed in explanations. The content is also well designed and the flow is great.
+- The lecturer is good, and I hope that tutor can demo the code by python at the same time, thank you!
+- The lecturer delivers very clear explanation and the presentation slides are good.
+- Lecture done in casual and friendly mode.
+- Very casual atmosphere and relaxed
+- Explain clearly and effectively.
+- Clear explanations, good pacing. Maybe more opportunity to get hands on practice?
+- Providing examples (hands on questions/solutions) is very useful.
+- I like the explanation to the whole picture of the field. 
+- I like that the methods are taught in a practical and light way. The lecturer is effective. As suggestions for improvements, go slower on some topics.
+- Covering the basics for those who are new to the subject
+- The content of the module is good and the lecturer is confident in the lecture. Feels the length of the lecture is not sufficient to cover all the materials. Suggest to have some hands on with the students (as in students do the coding at the same time / lab sessions)
 
 ***
 
