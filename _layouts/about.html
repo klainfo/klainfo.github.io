@@ -49,7 +49,7 @@ layout: default
 
                 <div class="col-md-12" role="main">
                     <dl class="dl-horizontal"> 
-                    {% for item in site.data.news | limit:5 %}            
+                    {% for item in site.data.news  limit:5 %}            
                       <dt>{{item.date | date: "%B %d, %Y"}}</dt><dd>{{item.content}}</dd>
                     {% endfor %}
                     </dl>
