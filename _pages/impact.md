@@ -10,6 +10,8 @@ nav_order: 2
 
 I have a consistent track-record of achievements, awards, and grants. To date, I receive the substantial amount of grant funding over AU$2,000,000+, demonstrating the recognition of the excellence of my research. In addition, I also invest significant effort in funding my research projects from an early career stage, which allows me to maintain a strong research profile.
 
+- 2025: Most Influential Paper Award at SANER'25.
+- 2024: Dean's Award Excellence in Research Engagment and Impact 2024.
 - 2023: ACM SIGSOFT Distinguished Reviewer Award at ICSE'23.
 - 2022: CSIRO's Next Generation Graduates AI Program, Responsible AI Software Engineering (lead-CI, $1.2m).
 - 2021: <a href="https://www.researchgate.net/publication/354326426_PyExplainer_Explaining_the_Predictions_of_Just-In-Time_Defect_Models">ACM SIGSOFT Distinguished Paper Award 2021</a>.
