@@ -16,82 +16,110 @@ I greatly value the opportunity to train future leaders in software engineering 
 
 <h4>Current PhD Supervision at Monash University</h4>
 
-1.	**(PhD, Main Supervision) Chanathip Pornprasit (2020-current), Monash University, Australia**
 
-	**Topic:** Automated Software Quality Assurance
-
-	**Publications:** MSR'21, TSE'21, ASE'21, SANER'23 
-
-2.	**(PhD, Main Supervision) Yang Hong (2021-current), Monash University, Australia**
-
-	**Topic:** Automated Code Review.
-
-	**Publications:** SANER'22, FSE'22.
-
-3.	**(PhD, Main Supervision) Yue Liu (2021-current), Monash University, Australia**
-
-	**Topic:** Automated Malware Detection.
-
-	**Publications:** ACM Computing Survey, ISSRE'23.
-
-4.	**(PhD, Main Supervision) Danushka Pitivilaliyanage (2020-current), Monash University, Australia**
-
-	**Topic:** Security Gaurantees for Automated Software Testing.	
-
-	**Publications:** ICSE'23.
-
-5.	**(PhD, Co Supervision) Aastha Pant (2021-current), Monash University, Australia**
-
-	**Topic:** Ethics in AI
-
-6.	**(PhD, Main Supervision) Yeh Fu (2021-current), Monash University, Australia**
-
-	**Topic:** Toward More Effective Deep Learning-based Automated Software Vulnerability Prediction, Classification, and Repair
-
-	**Publications:** ASE'21, TSE'21, MSR'22, FSE'22.
-
-7.	**(PhD, Main Supervision) Saranya Alagarsamy (2021-current), Monash University, Australia**
+1.	**(PhD, Main Supervision) Saranya Alagarsamy (2021-current), Monash University, Australia**
 
 	**Topic:** AI for Software Testing
 
-	**Publications:** TOSEM'23 (Under Review)
+	**Achievements:** IST'24.
 
-8.	**(PhD, Main Supervision) Wannita Takerngsaksiri, Monash University, Australia**
+2.	**(PhD, Main Supervision) Wannita Takerngsaksiri, Monash University, Australia**
 
 	**Topic:** Automated Code Completion
 
-	**Publications:** TSE'23 (Under Review)
+	**Achievements:** IST'24, ICSE-SEIP'25, A 9-months Atlassian PhD Internship Scholarship.
 
-<h4>Undergraduate Researchers</h4>
+3.	**(PhD, Main Supervision) Rui Yang, Monash University, Australia**
 
-9.	**(1st Year Undergraduate Student) Yuki Kume, Monash University, Australia**
+	**Topic:** Enhancing the Safety of Large Language Models
 
-	**Topic:** AIBugHunter
+	**Achievements:** 
 
-	**Publications:** EMSE'23 (Under Review)
+4.	**(PhD, Co-Supervision) Fanyu Wang, Monash University, Australia**
 
-<h4>Graduated Students</h4>
+	**Topic:** Quality Assurance-driven Requirement Engineering
 
-1.	**Jirayus Jiarpakdee** (2017-2021, PhD, Main Supervision), Monash University, Australia.
+	**Achievements:** 
+
+5.	**(PhD, Co-Supervision) Aaron Guan, Monash University, Australia**
+
+	**Topic:** Testing Large Language Models
+
+	**Achievements:** 
+
+<h4>PhD Alumni</h4>
+
+6.	**(PhD, Main Supervision) Yeh Fu (2021-2025), Monash University, Australia**
+
+	**Topic:** Toward More Effective Deep Learning-based Automated Software Vulnerability Prediction, Classification, and Repair
+
+	**Achievements:** ASE'21, TSE'21, MSR'22, FSE'22.
+
+7.	**(PhD, Main Supervision) Chanathip Pornprasit (2020-2025), Monash University, Australia**
+
+	**Topic:** Automated Software Quality Assurance
+
+	**Achievements:** MSR'21, TSE'21, ASE'21, SANER'23 
+
+8.	**(PhD, Main Supervision) Yang Hong (2021-2024), Monash University, Australia**
+
+	**Topic:** Automated Code Review.
+
+	**Achievements:** SANER'22, FSE'22, IST'24, FSE'24, a 3-month Atlassian PhD Internship Scholarship.
+
+9.	**(PhD, Main Supervision) Yue Liu (2021-2024), Monash University, Australia**
+
+	**Topic:** Automated Malware Detection.
+
+	**Achievements:** ACM Computing Survey, ISSRE'23.
+
+10.	**(PhD, Main Supervision) Danushka Pitivilaliyanage (2020-2023), Monash University, Australia**
+
+	**Topic:** Security Gaurantees for Automated Software Testing.	
+
+	**Achievements:** ICSE'23, ICSE'24.
+
+11.	**(PhD, Co Supervision) Aastha Pant (2021-current), Monash University, Australia**
+
+	**Topic:** Ethics in AI
+
+	**Achievements:** ICSE'23, ICSE'24.
+
+12.	**(PhD, Main Supervision) Han Hu (2021-current), Monash University, Australia**
+
+	**Topic:** Ethics in AI
+
+	**Achievements:** ICSE'23, ICSE'24.	
+
+13.	**Jirayus Jiarpakdee** (2017-2021, PhD, Main Supervision), Monash University, Australia.
 
 	**Topic:** Towards Explainable Software Defect Prediction Models to Support SQA Planning
 
-	**Publications:** 3xTSE, 1xEMSE, 1xICSE, 1xICSME, 1xMSR, 1xAnnals of Emergency Medicine, 1xICSE-Doctoral Symposium 
+	**Achievements:** 3xTSE, 1xEMSE, 1xICSE, 1xICSME, 1xMSR, 1xAnnals of Emergency Medicine, 1xICSE-Doctoral Symposium 
 
-2.	**Suraj Yatish** (2019, Master of CS, Main Supervision), Monash University, Australia.
+
+<h4>Honours/Master Alumni</h4>
+
+14.	**Suraj Yatish** (2019, Master of CS, Main Supervision), Monash University, Australia.
 
 	**Topic:** Mining Software Defects: Should we Consider Affected Releases?
 
-	**Publications:** 1xICSE'19
+	**Achievements:** 1xICSE'19
 
-3.	**Supatsara Wattanakriengkrai** (2019-2020, Master of Engineering, Main Supervision), Nara Institute of Science and Technology, Japan.
+15.	**Supatsara Wattanakriengkrai** (2019-2020, Master of Engineering, Main Supervision), Nara Institute of Science and Technology, Japan.
 
 	**Topic:** Towards Line-Level Defect Prediction Models
 
-	**Publications:** 1xTSE'20
+	**Achievements:** 1xTSE'20
 
-4.	**Chaiyakarn Khanan, Worawit Luewichana, Krissakorn Pruktharathikoon (2019, Visiting Undergraduate Students, Main Supervision), Mahidol University, Thailand.**
+16.	**Chaiyakarn Khanan, Worawit Luewichana, Krissakorn Pruktharathikoon (2019, Visiting Undergraduate Students, Main Supervision), Mahidol University, Thailand.**
 
 	**Topic:** JITBot: An Explainable Just-In-Time Defect Prediction Bot 
 
-	**Publications:** 1xASE-Tool Demo'20 
+	**Achievements:** 1xASE-Tool Demo'20 
+
+17.	**(1st Year Undergraduate Student) Yuki Kume, Monash University, Australia**
+
+	**Topic:** AIBugHunter
+
+	**Achievements:** EMSE'23

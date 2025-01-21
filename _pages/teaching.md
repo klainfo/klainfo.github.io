@@ -15,8 +15,21 @@ nav_order: 3
 <!-- #### Tutorial -->
 
 
-#### Monash University (2019-current)
+#### At Monash University (2019-current)
 
+<h4>Semester 2, 2024</h4>
+  <ul>
+    <li>(PhD) <a href="/teaching/quantitative-research-methods">MDP: Quantitative Research Methods</a></li>
+    <li>(Master) FIT <a href="http://www.monash.edu/pubs/handbooks/units/FIT5136.html">5136</a>: Software engineering</li>
+  </ul> 
+<h4>Semester 1, 2024</h4>
+  <ul>
+    <li>(Master) FIT <a href="http://www.monash.edu/pubs/handbooks/units/FIT5136.html">5136</a>: Software engineering</li>
+  </ul> 
+<h4>Semester 2, 2023</h4>
+  <ul>
+    <li>(Master) FIT <a href="http://www.monash.edu/pubs/handbooks/units/FIT5136.html">5136</a>: Software engineering</li>
+  </ul> 
 <h4>Semester 1, 2023</h4>
   <ul>
     <li>(PhD) <a href="/teaching/quantitative-research-methods">MDP: Quantitative Research Methods</a></li>
