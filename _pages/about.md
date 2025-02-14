@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Expert in Software Engineering, Cyber Security, LLMOps, and Responsible AI
+subtitle: #Expert in Software Engineering, Cyber Security, LLMOps, and Responsible AI
 
 profile:
   align: right
@@ -17,20 +17,19 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there!
 
-I'm Kla *(published papers as Chakkrit Tantithamthavorn)* (IEEE Senior Member, ex-ARC DECRA Fellow, ex-JSPS Fellow), the Course Director for Bachelor of Software Engineering (Honours), and a Senior Lecturer in Software Engineering in the Faculty of Information Technology, Monash University, Australia. 
+I'm Kla *(published papers as Chakkrit Tantithamthavorn)* (<b>IEEE Senior Member, ex-ARC DECRA Fellow, ex-JSPS Fellow</b>), the Course Director for Bachelor of Software Engineering (Honours), and <a href="https://research.monash.edu/en/persons/kla-tantithamthavorn">a Senior Lecturer in Software Engineering</a> in the Faculty of Information Technology, Monash University, Australia. 
 
 My research is focused on developing AI-enabled software development techniques (e.g., AI for Software Defects, AI for Code Review, and AI for Agile) and tools (e.g, AIBugHunter) in order to help developers find defects faster, improve developers’ productivity, make better data-informed decisions, and better improve the quality of software systems. In addition, I'm currently investigating new tools and techniques that enable software engineers to test, safeguard, and monitor the safety and security risks of LLM-based software systems at scale (called LLMSecOps). Key achievements are summarised below.
 
 <b>Research</b>. I have established myself as an internationally-recognised researcher in software engineering (a World's Top 2% Scientists by Stanford University during 2020-2024, Ranked #129 globally in Software Engineering). Key achievements include: 
 
 <ul>
-  <li><b>High-Impact Publications:</b> I have published over 70 peer-reviewed articles in top-tier journals and conferences in software engineering, such as 12xTSE, 11xICSE, 6xTOSEM. My research has attracted over 5,100 Google Scholar citations (h-index 35, i10-index 57, 15 publications with 100+ citations).</li>
-  <li><b>Research Recognition:</b> The excellence of my research is recognized through many awards including ACM SIGSOFT Distinguished Paper at ASE’21 (CORE A*), a SANER'25 Most Influential Paper Award, the Dean’s Award for Excellence in Research Engagement and Impact, a World Top 2% Scientist by Stanford University, the Most Impactful Early Career Researcher in Software Engineering based on a bibliographic study (2013-2020), and NAIST Best Ph.D Student Award.</li>
-  <li><b>Research Innovations and Impact:</b> I’m arguably the most well-recognised researcher and a pioneer in the field of Explainable AI for Software Engineering — an increasingly important research field that has gained a lot of interest in the last 4-5 years. I wrote the XAI4SE online book (http://xai4se.github.io), which has garnered over 20k+ pageviews and engaged 4.3k users from 83 countries worldwide. I have made substantial contributions to enhance the practicality, explainability, and actionability of automated software development tools (e.g., LineVul, VulExplainer, VulRepair, AIBugHunter). These innovations are widely adopted in both academic and industrial settings (e.g, 1,000+ downloads of AIBugHunter in Microsoft Visual Studio Code). The excellence of my research is recognised by the 2024 Dean's Award for Excellence in Research Engagement and Impact.</li>
+  <li><b>High-Impact Publications:</b> I have published over 70 peer-reviewed articles in top-tier journals and conferences in software engineering, such as 12xTSE, 11xICSE, 6xTOSEM. My research has attracted over <a href="https://scholar.google.com.au/citations?hl=en&user=idShgcoAAAAJ&view_op=list_works">5,800 Google Scholar citations</a> (h-index 35, i10-index 57, 15 publications with 100+ citations).</li>
+  <li><b>Research Recognition:</b> The excellence of my research is recognized through many awards including ACM SIGSOFT Distinguished Paper at ASE’21 (CORE A*), a SANER'25 Most Influential Paper Award, the Dean’s Award for Excellence in Research Engagement and Impact, <a href="https://topresearcherslist.com/Home/Profile/831581">a World Top 2% Scientist by Stanford University</a>, the Most Impactful Early Career Researcher in Software Engineering based on a bibliographic study (2013-2020), and NAIST Best Ph.D Student Award.</li>
+  <li><b>Research Innovations and Impact:</b> I’m arguably the most well-recognised researcher and a pioneer in the field of Explainable AI for Software Engineering — an increasingly important research field that has gained a lot of interest in the last 4-5 years. I wrote <a href="http://xai4se.github.io">the XAI4SE online book</a>, which has garnered over 20k+ pageviews and engaged 4.3k users from 83 countries worldwide. I have made substantial contributions to enhance the practicality, explainability, and actionability of automated software development tools (e.g., LineVul, VulExplainer, VulRepair, <a href="https://marketplace.visualstudio.com/items?itemName=AIBugHunter.aibughunter">AIBugHunter</a>). These innovations are widely adopted in both academic and industrial settings (e.g, 1,000+ downloads of AIBugHunter in Microsoft Visual Studio Code). The excellence of my research is recognised by the 2024 Dean's Award for Excellence in Research Engagement and Impact.</li>
   <li><b>Grant Success:</b> I have secured over $2M in competitive funding from prestigious bodies such as CSIRO Next Gen Graduate AI Program (2023-2027, $1.2M), Australian Research Council (DECRA 2020-2023, $600K), and industry partners like Atlassian and Transurban.</li>
-  <li><b>Mentorship and Research Training:</b> I have supervised 13 PhD students (including 10 as the primary supervisor, 3 as the co-supervisor). Two PhD students have successfully graduated, while the other six PhD students have already submitted his/her thesis. Many of whom have graduated with excellent records and secured positions in academia (e.g., University of Melbourne, University of Sydney) and industry (Atlassian, Macquarie Group). </li>
+  <li><b>Mentorship and Research Training:</b> I have supervised 13 PhD students (including 10 as the primary supervisor, 3 as the co-supervisor). Six PhD students have successfully graduated. Many of whom have graduated with excellent records and secured positions in academia (e.g., University of Melbourne, University of Sydney) and industry (Atlassian, Macquarie Group). </li>
 </ul>
-
 
 <b>Education</b> I am deeply committed to delivering high-quality education that inspires and empowers students to excel. By using a responsive and iterative curriculum design with constructivism, active learning, problem-based learning theories, my contributions include:
 
