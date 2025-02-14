@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there!
 
-I'm Kla *(published papers as Chakkrit Tantithamthavorn)*, the Course Director for Bachelor of Software Engineering (Honours), and a Senior Lecturer in Software Engineering in the Faculty of Information Technology, Monash University, Australia. 
+I'm Kla *(published papers as Chakkrit Tantithamthavorn)* (IEEE Senior Member, ex-ARC DECRA Fellow, ex-JSPS Fellow), the Course Director for Bachelor of Software Engineering (Honours), and a Senior Lecturer in Software Engineering in the Faculty of Information Technology, Monash University, Australia. 
 
 My research is focused on developing AI-enabled software development techniques (e.g., AI for Software Defects, AI for Code Review, and AI for Agile) and tools (e.g, AIBugHunter) in order to help developers find defects faster, improve developers’ productivity, make better data-informed decisions, and better improve the quality of software systems. In addition, I'm currently investigating new tools and techniques that enable software engineers to test, safeguard, and monitor the safety and security risks of LLM-based software systems at scale (called LLMSecOps). Key achievements are summarised below.
 
