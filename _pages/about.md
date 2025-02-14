@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # Interested in Software Engineering, Cyber Security, Responsible AI, Explainable AI   # Contacts. Moto. Etc.
+subtitle: Expert in Software Engineering, Cyber Security, LLMOps, and Responsible AI
 
 profile:
   align: right
@@ -19,14 +19,30 @@ Hi there!
 
 I'm Kla *(published papers as Chakkrit Tantithamthavorn)*, the Course Director for Bachelor of Software Engineering (Honours), and a Senior Lecturer in Software Engineering in the Faculty of Information Technology, Monash University, Australia. 
 
-My research is focused on developing AI-enabled software development techniques (e.g., AI for Software Defects, AI for Code Review, and AI for Agile) and tools (e.g, JITBot) in order to help developers find defects faster, improve developers' productivity, make better data-informed decisions, and better improve the quality of software systems. 
+My research is focused on developing AI-enabled software development techniques (e.g., AI for Software Defects, AI for Code Review, and AI for Agile) and tools (e.g, AIBugHunter) in order to help developers find defects faster, improve developers’ productivity, make better data-informed decisions, and better improve the quality of software systems. In addition, I'm currently investigating new tools and techniques that enable software engineers to test, safeguard, and monitor the safety and security risks of LLM-based software systems at scale (called LLMSecOps). Key achievements are summarised below.
 
-My research is recognised by many prestigious awards e.g., Australian Research Council (ARC)'s DECRA Award (2020-2023), and Japan Society for the Promotion of Science (JSPS-DC2). Recently, my team and I pioneered a new research direction of Explainable AI for Software Engineering, i.e., making software analytics more practical, explainable, and actionable. My research has been published at flagship software engineering venues, such as TSE, ICSE, EMSE, MSR, ICSME, IST, and other discipline venues like Annals of Emergency Medicine. 
+<b>Research</b>. I have established myself as an internationally-recognised researcher in software engineering (a World's Top 2% Scientists by Stanford University during 2020-2024, Ranked #129 globally in Software Engineering). Key achievements include: 
 
-Aligned with the Faculty's mission, 'IT for Social Good', he is interested in the areas of Digital Health. Funded by a Medical Research Future Fund (MRFF) to work with a multidisciplinary team with Cabrini Institute, St Vincent Hospital, and Eastern Health, he successfully developed analytics systems for estimating patient's wait-time in Emergency Departments and deployed in many hospitals in Australia.
+<ul>
+  <li><b>High-Impact Publications:</b> I have published over 70 peer-reviewed articles in top-tier journals and conferences in software engineering, such as 12xTSE, 11xICSE, 6xTOSEM. My research has attracted over 5,100 Google Scholar citations (h-index 35, i10-index 57, 15 publications with 100+ citations).</li>
+  <li><b>Research Recognition:</b> The excellence of my research is recognized through many awards including ACM SIGSOFT Distinguished Paper at ASE’21 (CORE A*), a SANER'25 Most Influential Paper Award, the Dean’s Award for Excellence in Research Engagement and Impact, a World Top 2% Scientist by Stanford University, the Most Impactful Early Career Researcher in Software Engineering based on a bibliographic study (2013-2020), and NAIST Best Ph.D Student Award.</li>
+  <li><b>Research Innovations and Impact:</b> I’m arguably the most well-recognised researcher and a pioneer in the field of Explainable AI for Software Engineering — an increasingly important research field that has gained a lot of interest in the last 4-5 years. I wrote the XAI4SE online book (http://xai4se.github.io), which has garnered over 20k+ pageviews and engaged 4.3k users from 83 countries worldwide. I have made substantial contributions to enhance the practicality, explainability, and actionability of automated software development tools (e.g., LineVul, VulExplainer, VulRepair, AIBugHunter). These innovations are widely adopted in both academic and industrial settings (e.g, 1,000+ downloads of AIBugHunter in Microsoft Visual Studio Code). The excellence of my research is recognised by the 2024 Dean's Award for Excellence in Research Engagement and Impact.</li>
+  <li><b>Grant Success:</b> I have secured over $2M in competitive funding from prestigious bodies such as CSIRO Next Gen Graduate AI Program (2023-2027, $1.2M), Australian Research Council (DECRA 2020-2023, $600K), and industry partners like Atlassian and Transurban.</li>
+  <li><b>Mentorship and Research Training:</b> I have supervised 13 PhD students (including 10 as the primary supervisor, 3 as the co-supervisor). Two PhD students have successfully graduated, while the other six PhD students have already submitted his/her thesis. Many of whom have graduated with excellent records and secured positions in academia (e.g., University of Melbourne, University of Sydney) and industry (Atlassian, Macquarie Group). </li>
+</ul>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5aTcpF8lBDYDU0oO_MsQFiE2CGuzgrs3L9YEZr8P50twSrnIHXTCJk-SlpWlc7w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<b>Education</b> I am deeply committed to delivering high-quality education that inspires and empowers students to excel. By using a responsive and iterative curriculum design with constructivism, active learning, problem-based learning theories, my contributions include:
+
+<ul>
+  <li><b>Innovative Teaching Methods:</b> I have pioneered new teaching and assessment strategies (EdStem’s Unit Testing Challenges) being used at FIT2107, FIT5136, and ITO5136, resulting in improved student engagement and learning outcomes. I have received consistently positive feedback from students, with a sustained SETU improvement, from 4.14 (FIT5136 2023 S1) to 4.57 (FIT5136 2024 S1). This also leads to an education peer-reviewed publication at the Asia-Pacific Software Engineering Conference (APSEC 2024).</li>
+
+  <li><b>Curriculum Development and Leadership:</b> With the limited time being a course director of the Bachelor Degree of Software Engineering, I have played a key role in designing and implementing the 2026 BSE course structure to align with SWEBOK 2024, uplifting the quality of the BSE degree to the national and international standards. I also play a significant role in attracting students, by presenting the BSE degree during the Open Day (over 100 attendees) and Engineering Specialisation Day.</li>
+</ul>
+
+<b>Community Leadership.</b> I am currently/had been serving as an Associate Editor of IEEE Transactions on Software Engineering (TSE), the flagship journal in software engineering, an IEEE Software Guest Editor on MLOps, an IEEE Software Guest Editor on Explainable AI for SE, a Junior PC Co-Chair of 2025 Mining Software Repositories (CORE A). I have been invited to be a Keynote Speaker at various events, including the IntenSE workshop (co-located at ICSE’23), a tutorial talk at ASE’21 (CORE A*), Lancaster Uni, Oracle Lab, Atlassian AI Team, Monash eSolution, and Transurban. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxcyYTGyXHQj3Pz7j7HXCHdaWKhDCkUf2rs93W7APwV9NeT8o9mckt-gKLyBz0pg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <!-- Interests: Software Analytics, Explainable AI, AI4SE, SE4AI, Empirical Software Engineering, Software Quality Assurance.
