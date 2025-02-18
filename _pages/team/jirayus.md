@@ -1,4 +1,4 @@
-### Dr. Jirayus Jiarpakdee
+### [Dr. Jirayus Jiarpakdee](https://jirayusjiar.github.io/intro.html)
 *Graduated PhD Student (2018-2021), Main Supervisor, Co-Supervised with Professor John Grundy.*
 
 **Thesis Title: [Towards Explainable Software Defect Prediction Models to Support SQA Planning](https://bridges.monash.edu/articles/thesis/Towards_Explainable_Software_Defect_Prediction_Models_to_Support_SQA_Planning/17082887?file=31587605)**

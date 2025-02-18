@@ -98,11 +98,11 @@ profiles-past:
     content: team/yang-hong.md
     image_circular: true # crops the image to make it circular
     more_info: #
-  # - align: right
-  #   image: han-hu.png
-  #   content: 
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: #
+  - align: right
+    image: han-hu.jpg
+    content: team/han-hu.md
+    image_circular: true # crops the image to make it circular
+    more_info: #
   - align: right
     image: yue-liu.png
     content: team/yue-liu.md

@@ -1,4 +1,4 @@
-### Dr. Danushka Liyanage
+### [Dr. Danushka Liyanage](https://dliyanage.github.io/)
 *Graduated PhD Student (2019-2023), Co-Main Supervisor with Dr. Marcel Böhme.*
 
 **Thesis Title: [Quantitative Decision-Making for Automated Software Testing](https://bridges.monash.edu/articles/thesis/Quantitative_Decision-Making_for_Automated_Software_Testing/24791547?file=43600644)**
