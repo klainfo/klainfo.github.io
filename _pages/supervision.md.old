@@ -2,24 +2,23 @@
 <html lang="en">
 
   <!-- Head -->
-  <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>supervision | Dr. Kla Tantithamthavorn</title>
-    <meta name="author" content="Kla  Tantithamthavorn">
+    <title> | Dr. Kla Tantithamthavorn</title>
+    <meta name="author" content="Kla  Tantithamthavorn" />
     <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
-    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+" />
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
     <!-- Bootstrap & MDB -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous" />
 
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
@@ -27,18 +26,18 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light" />
 
     <!-- Styles -->
     
-    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="http://chakkrit.com/supervision/">
+    <link rel="canonical" href="http://chakkrit.com/_pages/supervision.md.old">
     
     <!-- Dark Mode -->
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
 
     <script src="/assets/js/theme.js"></script>
     <script src="/assets/js/dark_mode.js"></script>
@@ -93,7 +92,7 @@
                 <a class="nav-link" href="/team/">team</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="/supervision/">supervision<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/_pages/supervision.md.old"><span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -123,149 +122,126 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">supervision</h1>
+            <h1 class="post-title"></h1>
             <p class="post-description"></p>
           </header>
 
           <article>
-            <p>I greatly value the opportunity to train future leaders in software engineering through supervision and mentorship. I form productive relationships with students by providing research skills training, keeping communication open, being approachable, and encouraging students to pursue and share their own independent thinking about their projects, and develop their critical thinking and writing skills. I am committed to guiding students as they learn time-management skills in a research environment. In the past five years, many of my Ph.D. students have a successful publication record that is ready for the next stage of their career.</p>
+            I greatly value the opportunity to train future leaders in software engineering through supervision and mentorship. I form productive relationships with students by providing research skills training, keeping communication open, being approachable, and encouraging students to pursue and share their own independent thinking about their projects, and develop their critical thinking and writing skills. I am committed to guiding students as they learn time-management skills in a research environment. In the past five years, many of my Ph.D. students have a successful publication record that is ready for the next stage of their career.
+
 
 <!-- <div class="alert alert-info lead" role="alert">I'm actively recruiting (self-motivated and active) Honours/Master/Ph.D. students who are interested in my research projects. Please apply <a href="https://supervisorconnect.it.monash.edu/supervisors/chakkrit-tantithamthavorn">here</a>.</div> -->
 
+
 <h4>Current PhD Supervision at Monash University</h4>
 
-<ol>
-  <li>
-    <p><strong>(PhD, Main Supervision) Saranya Alagarsamy (2021-current), Monash University, Australia</strong></p>
 
-    <p><strong>Topic:</strong> AI for Software Testing</p>
+1.	**(PhD, Main Supervision) Saranya Alagarsamy (2021-current), Monash University, Australia**
 
-    <p><strong>Achievements:</strong> IST’24.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Wannita Takerngsaksiri, Monash University, Australia</strong></p>
+	**Topic:** AI for Software Testing
 
-    <p><strong>Topic:</strong> Automated Code Completion</p>
+	**Achievements:** IST'24.
 
-    <p><strong>Achievements:</strong> IST’24, ICSE-SEIP’25, A 9-months Atlassian PhD Internship Scholarship.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Rui Yang, Monash University, Australia</strong></p>
+2.	**(PhD, Main Supervision) Wannita Takerngsaksiri, Monash University, Australia**
 
-    <p><strong>Topic:</strong> Enhancing the Safety of Large Language Models</p>
+	**Topic:** Automated Code Completion
 
-    <p><strong>Achievements:</strong></p>
-  </li>
-  <li>
-    <p><strong>(PhD, Co-Supervision) Fanyu Wang, Monash University, Australia</strong></p>
+	**Achievements:** IST'24, ICSE-SEIP'25, A 9-months Atlassian PhD Internship Scholarship.
 
-    <p><strong>Topic:</strong> Quality Assurance-driven Requirement Engineering</p>
+3.	**(PhD, Main Supervision) Rui Yang, Monash University, Australia**
 
-    <p><strong>Achievements:</strong></p>
-  </li>
-  <li>
-    <p><strong>(PhD, Co-Supervision) Aaron Guan, Monash University, Australia</strong></p>
+	**Topic:** Enhancing the Safety of Large Language Models
 
-    <p><strong>Topic:</strong> Testing Large Language Models</p>
+	**Achievements:** 
 
-    <p><strong>Achievements:</strong></p>
-  </li>
-</ol>
+4.	**(PhD, Co-Supervision) Fanyu Wang, Monash University, Australia**
+
+	**Topic:** Quality Assurance-driven Requirement Engineering
+
+	**Achievements:** 
+
+5.	**(PhD, Co-Supervision) Aaron Guan, Monash University, Australia**
+
+	**Topic:** Testing Large Language Models
+
+	**Achievements:** 
 
 <h4>PhD Alumni</h4>
 
-<ol>
-  <li>
-    <p><strong>(PhD, Main Supervision) Yeh Fu (2021-2025), Monash University, Australia</strong></p>
+6.	**(PhD, Main Supervision) Yeh Fu (2021-2025), Monash University, Australia**
 
-    <p><strong>Topic:</strong> Toward More Effective Deep Learning-based Automated Software Vulnerability Prediction, Classification, and Repair</p>
+	**Topic:** Toward More Effective Deep Learning-based Automated Software Vulnerability Prediction, Classification, and Repair
 
-    <p><strong>Achievements:</strong> ASE’21, TSE’21, MSR’22, FSE’22.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Chanathip Pornprasit (2020-2025), Monash University, Australia</strong></p>
+	**Achievements:** ASE'21, TSE'21, MSR'22, FSE'22.
 
-    <p><strong>Topic:</strong> Automated Software Quality Assurance</p>
+7.	**(PhD, Main Supervision) Chanathip Pornprasit (2020-2025), Monash University, Australia**
 
-    <p><strong>Achievements:</strong> MSR’21, TSE’21, ASE’21, SANER’23</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Yang Hong (2021-2024), Monash University, Australia</strong></p>
+	**Topic:** Automated Software Quality Assurance
 
-    <p><strong>Topic:</strong> Automated Code Review.</p>
+	**Achievements:** MSR'21, TSE'21, ASE'21, SANER'23 
 
-    <p><strong>Achievements:</strong> SANER’22, FSE’22, IST’24, FSE’24, a 3-month Atlassian PhD Internship Scholarship.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Yue Liu (2021-2024), Monash University, Australia</strong></p>
+8.	**(PhD, Main Supervision) Yang Hong (2021-2024), Monash University, Australia**
 
-    <p><strong>Topic:</strong> Automated Malware Detection.</p>
+	**Topic:** Automated Code Review.
 
-    <p><strong>Achievements:</strong> ACM Computing Survey, ISSRE’23.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Danushka Pitivilaliyanage (2020-2023), Monash University, Australia</strong></p>
+	**Achievements:** SANER'22, FSE'22, IST'24, FSE'24, a 3-month Atlassian PhD Internship Scholarship.
 
-    <p><strong>Topic:</strong> Security Gaurantees for Automated Software Testing.</p>
+9.	**(PhD, Main Supervision) Yue Liu (2021-2024), Monash University, Australia**
 
-    <p><strong>Achievements:</strong> ICSE’23, ICSE’24.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Co Supervision) Aastha Pant (2021-current), Monash University, Australia</strong></p>
+	**Topic:** Automated Malware Detection.
 
-    <p><strong>Topic:</strong> Ethics in AI</p>
+	**Achievements:** ACM Computing Survey, ISSRE'23.
 
-    <p><strong>Achievements:</strong> ICSE’23, ICSE’24.</p>
-  </li>
-  <li>
-    <p><strong>(PhD, Main Supervision) Han Hu (2021-current), Monash University, Australia</strong></p>
+10.	**(PhD, Main Supervision) Danushka Pitivilaliyanage (2020-2023), Monash University, Australia**
 
-    <p><strong>Topic:</strong> Ethics in AI</p>
+	**Topic:** Security Gaurantees for Automated Software Testing.	
 
-    <p><strong>Achievements:</strong> ICSE’23, ICSE’24.</p>
-  </li>
-  <li>
-    <p><strong>Jirayus Jiarpakdee</strong> (2017-2021, PhD, Main Supervision), Monash University, Australia.</p>
+	**Achievements:** ICSE'23, ICSE'24.
 
-    <p><strong>Topic:</strong> Towards Explainable Software Defect Prediction Models to Support SQA Planning</p>
+11.	**(PhD, Co Supervision) Aastha Pant (2021-current), Monash University, Australia**
 
-    <p><strong>Achievements:</strong> 3xTSE, 1xEMSE, 1xICSE, 1xICSME, 1xMSR, 1xAnnals of Emergency Medicine, 1xICSE-Doctoral Symposium</p>
-  </li>
-</ol>
+	**Topic:** Ethics in AI
+
+	**Achievements:** ICSE'23, ICSE'24.
+
+12.	**(PhD, Main Supervision) Han Hu (2021-current), Monash University, Australia**
+
+	**Topic:** Ethics in AI
+
+	**Achievements:** ICSE'23, ICSE'24.	
+
+13.	**Jirayus Jiarpakdee** (2017-2021, PhD, Main Supervision), Monash University, Australia.
+
+	**Topic:** Towards Explainable Software Defect Prediction Models to Support SQA Planning
+
+	**Achievements:** 3xTSE, 1xEMSE, 1xICSE, 1xICSME, 1xMSR, 1xAnnals of Emergency Medicine, 1xICSE-Doctoral Symposium 
+
 
 <h4>Honours/Master Alumni</h4>
 
-<ol>
-  <li>
-    <p><strong>Suraj Yatish</strong> (2019, Master of CS, Main Supervision), Monash University, Australia.</p>
+14.	**Suraj Yatish** (2019, Master of CS, Main Supervision), Monash University, Australia.
 
-    <p><strong>Topic:</strong> Mining Software Defects: Should we Consider Affected Releases?</p>
+	**Topic:** Mining Software Defects: Should we Consider Affected Releases?
 
-    <p><strong>Achievements:</strong> 1xICSE’19</p>
-  </li>
-  <li>
-    <p><strong>Supatsara Wattanakriengkrai</strong> (2019-2020, Master of Engineering, Main Supervision), Nara Institute of Science and Technology, Japan.</p>
+	**Achievements:** 1xICSE'19
 
-    <p><strong>Topic:</strong> Towards Line-Level Defect Prediction Models</p>
+15.	**Supatsara Wattanakriengkrai** (2019-2020, Master of Engineering, Main Supervision), Nara Institute of Science and Technology, Japan.
 
-    <p><strong>Achievements:</strong> 1xTSE’20</p>
-  </li>
-  <li>
-    <p><strong>Chaiyakarn Khanan, Worawit Luewichana, Krissakorn Pruktharathikoon (2019, Visiting Undergraduate Students, Main Supervision), Mahidol University, Thailand.</strong></p>
+	**Topic:** Towards Line-Level Defect Prediction Models
 
-    <p><strong>Topic:</strong> JITBot: An Explainable Just-In-Time Defect Prediction Bot</p>
+	**Achievements:** 1xTSE'20
 
-    <p><strong>Achievements:</strong> 1xASE-Tool Demo’20</p>
-  </li>
-  <li>
-    <p><strong>(1st Year Undergraduate Student) Yuki Kume, Monash University, Australia</strong></p>
+16.	**Chaiyakarn Khanan, Worawit Luewichana, Krissakorn Pruktharathikoon (2019, Visiting Undergraduate Students, Main Supervision), Mahidol University, Thailand.**
 
-    <p><strong>Topic:</strong> AIBugHunter</p>
+	**Topic:** JITBot: An Explainable Just-In-Time Defect Prediction Bot 
 
-    <p><strong>Achievements:</strong> EMSE’23</p>
-  </li>
-</ol>
+	**Achievements:** 1xASE-Tool Demo'20 
 
+17.	**(1st Year Undergraduate Student) Yuki Kume, Monash University, Australia**
+
+	**Topic:** AIBugHunter
+
+	**Achievements:** EMSE'23
           </article>
 
         </div>
@@ -275,7 +251,7 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2025 Kla  Tantithamthavorn. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>.
+        &copy; Copyright 2025 Kla  Tantithamthavorn. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 Last updated: February 18, 2025.
       </div>
     </footer>
