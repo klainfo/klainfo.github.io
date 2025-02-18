@@ -7,7 +7,6 @@ nav: true
 nav_order: 4
 
 profiles-faculty:
-  # Faculty
   - align: right
     image: chakkrit.png
     content: team/profile_kla.md
@@ -47,7 +46,6 @@ profiles-faculty:
 # PhD Students
 
 profiles-phd:
-  # PhD Students
   - align: right
     image: rui-yang.png
     content: team/rui-yang.md
@@ -134,5 +132,4 @@ profiles-past:
     image_circular: true # crops the image to make it circular
     more_info: #
 ---
-
 ---
