@@ -1,4 +1,4 @@
-### Dr. Aastha Pant
+### [Dr. Aastha Pant](https://www.aasthapant.com/)
 *Graduated PhD Student (2022-2025), Co Supervisor, Main Superviser by Professor Rashina Hoda*
 
 **Thesis Title: [Understanding Ethics in AI Software Development through Practitioners’ Perspectives and Experiences](https://bridges.monash.edu/articles/thesis/Understanding_Ethics_in_AI_Software_Development_through_Practitioners_Perspectives_and_Experiences/28051454?file=51265370)**
