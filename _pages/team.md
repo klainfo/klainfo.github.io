@@ -49,27 +49,27 @@ profiles-phd:
   - align: right
     image: rui-yang.png
     content: team/rui-yang.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: #
   - align: right
     image: wannita.png
     content: team/wannita.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: #
   - align: right
     image: saranya.png
     content: team/saranya.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: #    
   - align: right
     image: #fanyu.jpeg
     content: #team_samra.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: #   
   - align: right
     image: #aaron.jpeg
     content: #team_samra.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: #       
 
 # profiles-visitors:
