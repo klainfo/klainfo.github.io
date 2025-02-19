@@ -3,7 +3,7 @@
 
 **Thesis Title: Towards the Design and Evaluation of Practical Automated Software Development Tools**
 
-**Google Scholar:** N/A
+**Google Scholar:** [https://scholar.google.com.au/citations?user=Yzpk-0AAAAAJ&hl=en&oi=ao](https://scholar.google.com.au/citations?user=Yzpk-0AAAAAJ&hl=en&oi=ao)
 
 **Publications:**
 
